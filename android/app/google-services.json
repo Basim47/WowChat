@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "496914583414",
+    "project_id": "wowchat-8399b",
+    "storage_bucket": "wowchat-8399b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496914583414:android:e7bb8489471b1595a53457",
+        "android_client_info": {
+          "package_name": "com.wowchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_A4ky839U5pKt1X_bhnLCgbXThjgdeDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
